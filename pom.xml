@@ -126,6 +126,12 @@
 										<exclude>
 											com.ssinha.massmailer.services.springdataJPA
 										</exclude>
+										<exclude>
+											com.ssinha.massmailer.consumers
+										</exclude>
+										<exclude>
+											com.ssinha.massmailer.producers
+										</exclude>
 									</excludes>
 									<element>PACKAGE</element>
 									<limits>
