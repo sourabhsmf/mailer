@@ -49,7 +49,7 @@ public class Runner implements CommandLineRunner{
             mails.push(mail);
         }
         addMailToQueue.setMails(mails);
-        addMailToQueue.send();
+        //addMailToQueue.send();
     }
 
 }
